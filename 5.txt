@@ -1,776 +1,776 @@
-243
-233
-213
-193
-193
-133
-113
-83
-43
-33
-33
-13
-3
-243
-233
-213
-193
-193
-133
-113
-83
-43
-33
-33
-33
-13
-3
-243
-233
-213
-193
-193
-133
-113
-83
-43
-33
-43
-33
-33
-13
-3
-243
-233
-213
-193
-193
-133
-113
-83
-43
-43
-33
-33
-13
-3
-243
-233
-213
-193
-193
-133
-113
-83
-43
-33
-33
-13
-3
-243
-233
-213
-193
-193
-133
-113
-83
-33
-33
-13
-3
-243
-233
-213
-193
-193
-133
-113
-83
-73
-33
-33
-13
-3
-243
-233
-213
-193
-193
-133
-113
-73
-33
-33
-13
-3
-243
-233
-213
-193
-193
-133
-113
-103
-73
-33
-33
-13
-3
-243
-233
-213
-193
-193
-133
-113
-103
-73
-73
-33
-33
-13
-3
-243
-233
-213
-193
-193
-133
-113
-103
-73
-53
-73
-33
-33
-13
-3
-243
-233
-213
-193
-193
-133
-113
-103
-53
-73
-33
-33
-13
-3
-243
-233
-213
-193
-193
-133
-113
-103
-83
-53
-73
-33
-33
-13
-3
-243
-233
-213
-193
-193
-133
-103
-83
-53
-73
-33
-33
-13
-3
-243
-233
-213
-193
-193
-133
-123
-103
-83
-53
-73
-33
-33
-13
-3
-243
-233
-213
-193
-193
-133
-123
-103
-83
-53
-33
-33
-13
-3
-243
-233
-213
-193
-193
-133
-123
-103
-83
-53
-33
-33
-33
-13
-3
-243
-233
-213
-193
-193
-123
-103
-83
-53
-33
-33
-33
-13
-3
-243
-233
-213
-193
-193
-183
-123
-103
-83
-53
-33
-33
-33
-13
-3
-243
-233
-213
-193
-183
-123
-103
-83
-53
-33
-33
-33
-13
-3
-243
-233
-213
-193
-183
-183
-123
-103
-83
-53
-33
-33
-33
-13
-3
-243
-233
-213
-193
-183
-183
-123
-103
-83
-53
-33
-33
-13
-3
-243
-233
-213
-193
-183
-183
-123
-103
-83
-53
-33
-33
-33
-13
-3
-243
-233
-213
-193
-183
-183
-123
-103
-83
-53
-33
-33
-13
-3
-243
-233
-213
-193
-183
-183
-123
-103
-83
-53
-33
-33
-13
-13
-3
-243
-233
-213
-193
-183
-183
-123
-103
-83
-53
-33
-33
-13
-3
-243
-233
-213
-193
-183
-183
-123
-103
-83
-53
-33
-33
-13
-3
-3
-243
-233
-213
-193
-183
-183
-123
-83
-53
-33
-33
-13
-3
-3
-243
-233
-213
-193
-183
-183
-123
-103
-83
-53
-33
-33
-13
-3
-3
-243
-233
-213
-193
-183
-183
-123
-103
-83
-83
-53
-33
-33
-13
-3
-3
-243
-233
-213
-193
-183
-183
-123
-103
-83
-103
-83
-53
-33
-33
-13
-3
-3
-243
-233
-213
-193
-183
-183
-123
-103
-103
-83
-53
-33
-33
-13
-3
-3
-243
-233
-213
-193
-183
-183
-123
-103
-83
-53
-33
-33
-13
-3
-3
-243
-233
-213
-193
-183
-183
-123
-103
-83
-53
-33
-33
-13
-3
-3
-243
-233
-213
-193
-183
-183
-123
-103
-83
-53
-33
-33
-13
-3
-3
-243
-233
-213
-193
-183
-183
-103
-83
-53
-33
-33
-13
-3
-3
-243
-233
-213
-193
-183
-183
-163
-103
-83
-53
-33
-33
-13
-3
-3
-243
-233
-213
-193
-183
-163
-103
-83
-53
-33
-33
-13
-3
-3
-243
-233
-213
-193
-183
-163
-163
-103
-83
-53
-33
-33
-13
-3
-3
-243
-233
-213
-193
-183
-163
-163
-83
-53
-33
-33
-13
-3
-3
-243
-233
-213
-193
-183
-163
-163
-143
-83
-53
-33
-33
-13
-3
-3
-243
-233
-213
-193
-183
-163
-143
-83
-53
-33
-33
-13
-3
-3
-243
-233
-213
-193
-183
-163
-143
-143
-83
-53
-33
-33
-13
-3
-3
-243
-233
-213
-183
-163
-143
-143
-83
-53
-33
-33
-13
-3
-3
-243
-233
-213
-203
-183
-163
-143
-143
-83
-53
-33
-33
-13
-3
-3
-243
-233
-203
-183
-163
-143
-143
-83
-53
-33
-33
-13
-3
-3
-243
-233
-223
-203
-183
-163
-143
-143
-83
-53
-33
-33
-13
-3
-3
-243
-233
-223
-203
-183
-163
-143
-143
-83
-83
-53
-33
-33
-13
-3
-3
-243
-233
-223
-203
-183
-163
-143
-143
-83
-83
-83
-53
-33
-33
-13
-3
-3
-243
-233
-223
-203
-183
-163
-143
-143
-83
-83
-53
-33
-33
-13
-3
-3
-243
-233
-223
-203
-183
-163
-143
-143
-143
-83
-83
-53
-33
-33
-13
-3
-3
-243
-233
-223
-203
-163
-143
-143
-143
-83
-83
-53
-33
-33
-13
-3
-3
-243
-233
-223
-203
-183
-163
-143
-143
-143
-83
-83
-53
-33
-33
-13
-3
-3
+a=0.000756,b=0.155389,Steady State : 243
+a=0.001766,b=0.155389,Steady State : 233
+a=0.002021,b=0.155389,Steady State : 213
+a=0.002531,b=0.155389,Steady State : 193
+a=0.003040,b=0.155389,Steady State : 193
+a=0.003046,b=0.155389,Steady State : 133
+a=0.004543,b=0.155389,Steady State : 113
+a=0.006058,b=0.155389,Steady State : 83
+a=0.006153,b=0.155389,Steady State : 43
+a=0.016237,b=0.155389,Steady State : 33
+a=0.026485,b=0.155389,Steady State : 33
+a=0.029242,b=0.155389,Steady State : 13
+a=1.500000,b=0.155389,Steady State : 3
+a=0.003045,b=0.310779,Steady State : 243
+a=0.007148,b=0.310779,Steady State : 233
+a=0.008233,b=0.310779,Steady State : 213
+a=0.010380,b=0.310779,Steady State : 193
+a=0.012529,b=0.310779,Steady State : 193
+a=0.012695,b=0.310779,Steady State : 133
+a=0.018399,b=0.310779,Steady State : 113
+a=0.024539,b=0.310779,Steady State : 83
+a=0.029441,b=0.310779,Steady State : 43
+a=0.034783,b=0.310779,Steady State : 33
+a=0.039326,b=0.310779,Steady State : 33
+a=0.043086,b=0.310779,Steady State : 33
+a=0.045182,b=0.310779,Steady State : 13
+a=1.500000,b=0.310779,Steady State : 3
+a=0.003051,b=0.311057,Steady State : 243
+a=0.007166,b=0.311057,Steady State : 233
+a=0.008248,b=0.311057,Steady State : 213
+a=0.010403,b=0.311057,Steady State : 193
+a=0.012556,b=0.311057,Steady State : 193
+a=0.012719,b=0.311057,Steady State : 133
+a=0.018446,b=0.311057,Steady State : 113
+a=0.024587,b=0.311057,Steady State : 83
+a=0.029629,b=0.311057,Steady State : 43
+a=0.034853,b=0.311057,Steady State : 33
+a=0.035646,b=0.311057,Steady State : 43
+a=0.039280,b=0.311057,Steady State : 33
+a=0.043107,b=0.311057,Steady State : 33
+a=0.045198,b=0.311057,Steady State : 13
+a=1.500000,b=0.311057,Steady State : 3
+a=0.003056,b=0.311335,Steady State : 243
+a=0.007174,b=0.311335,Steady State : 233
+a=0.008264,b=0.311335,Steady State : 213
+a=0.010419,b=0.311335,Steady State : 193
+a=0.012578,b=0.311335,Steady State : 193
+a=0.012745,b=0.311335,Steady State : 133
+a=0.018466,b=0.311335,Steady State : 113
+a=0.024628,b=0.311335,Steady State : 83
+a=0.030070,b=0.311335,Steady State : 43
+a=0.035259,b=0.311335,Steady State : 43
+a=0.039242,b=0.311335,Steady State : 33
+a=0.043127,b=0.311335,Steady State : 33
+a=0.045214,b=0.311335,Steady State : 13
+a=1.500000,b=0.311335,Steady State : 3
+a=0.003356,b=0.326040,Steady State : 243
+a=0.007889,b=0.326040,Steady State : 233
+a=0.009089,b=0.326040,Steady State : 213
+a=0.011478,b=0.326040,Steady State : 193
+a=0.013866,b=0.326040,Steady State : 193
+a=0.014077,b=0.326040,Steady State : 133
+a=0.020304,b=0.326040,Steady State : 113
+a=0.027059,b=0.326040,Steady State : 83
+a=0.030200,b=0.326040,Steady State : 43
+a=0.038286,b=0.326040,Steady State : 33
+a=0.044178,b=0.326040,Steady State : 33
+a=0.046014,b=0.326040,Steady State : 13
+a=1.500000,b=0.326040,Steady State : 3
+a=0.003670,b=0.340745,Steady State : 243
+a=0.008635,b=0.340745,Steady State : 233
+a=0.009960,b=0.340745,Steady State : 213
+a=0.012596,b=0.340745,Steady State : 193
+a=0.015232,b=0.340745,Steady State : 193
+a=0.015504,b=0.340745,Steady State : 133
+a=0.022220,b=0.340745,Steady State : 113
+a=0.029581,b=0.340745,Steady State : 83
+a=0.037878,b=0.340745,Steady State : 33
+a=0.045139,b=0.340745,Steady State : 33
+a=0.046722,b=0.340745,Steady State : 13
+a=1.500000,b=0.340745,Steady State : 3
+a=0.003738,b=0.343886,Steady State : 243
+a=0.008800,b=0.343886,Steady State : 233
+a=0.010152,b=0.343886,Steady State : 213
+a=0.012843,b=0.343886,Steady State : 193
+a=0.015534,b=0.343886,Steady State : 193
+a=0.015821,b=0.343886,Steady State : 133
+a=0.022642,b=0.343886,Steady State : 113
+a=0.029659,b=0.343886,Steady State : 83
+a=0.030620,b=0.343886,Steady State : 73
+a=0.038126,b=0.343886,Steady State : 33
+a=0.045333,b=0.343886,Steady State : 33
+a=0.046862,b=0.343886,Steady State : 13
+a=1.500000,b=0.343886,Steady State : 3
+a=0.003808,b=0.347027,Steady State : 243
+a=0.008965,b=0.347027,Steady State : 233
+a=0.010346,b=0.347027,Steady State : 213
+a=0.013093,b=0.347027,Steady State : 193
+a=0.015840,b=0.347027,Steady State : 193
+a=0.016143,b=0.347027,Steady State : 133
+a=0.020938,b=0.347027,Steady State : 113
+a=0.031106,b=0.347027,Steady State : 73
+a=0.038552,b=0.347027,Steady State : 33
+a=0.045523,b=0.347027,Steady State : 33
+a=0.046998,b=0.347027,Steady State : 13
+a=1.500000,b=0.347027,Steady State : 3
+a=0.004412,b=0.373042,Steady State : 243
+a=0.010407,b=0.373042,Steady State : 233
+a=0.012038,b=0.373042,Steady State : 213
+a=0.015285,b=0.373042,Steady State : 193
+a=0.018533,b=0.373042,Steady State : 193
+a=0.019014,b=0.373042,Steady State : 133
+a=0.023108,b=0.373042,Steady State : 113
+a=0.030423,b=0.373042,Steady State : 103
+a=0.035619,b=0.373042,Steady State : 73
+a=0.041969,b=0.373042,Steady State : 33
+a=0.046938,b=0.373042,Steady State : 33
+a=0.047990,b=0.373042,Steady State : 13
+a=1.500000,b=0.373042,Steady State : 3
+a=0.005063,b=0.399056,Steady State : 243
+a=0.011938,b=0.399056,Steady State : 233
+a=0.013899,b=0.399056,Steady State : 213
+a=0.017705,b=0.399056,Steady State : 193
+a=0.021534,b=0.399056,Steady State : 193
+a=0.022332,b=0.399056,Steady State : 133
+a=0.023624,b=0.399056,Steady State : 113
+a=0.031331,b=0.399056,Steady State : 103
+a=0.039622,b=0.399056,Steady State : 73
+a=0.042677,b=0.399056,Steady State : 73
+a=0.045632,b=0.399056,Steady State : 33
+a=0.048078,b=0.399056,Steady State : 33
+a=0.048759,b=0.399056,Steady State : 13
+a=1.500000,b=0.399056,Steady State : 3
+a=0.005098,b=0.400384,Steady State : 243
+a=0.012058,b=0.400384,Steady State : 233
+a=0.013988,b=0.400384,Steady State : 213
+a=0.017844,b=0.400384,Steady State : 193
+a=0.021705,b=0.400384,Steady State : 193
+a=0.022517,b=0.400384,Steady State : 133
+a=0.023665,b=0.400384,Steady State : 113
+a=0.031404,b=0.400384,Steady State : 103
+a=0.039225,b=0.400384,Steady State : 73
+a=0.041399,b=0.400384,Steady State : 53
+a=0.043320,b=0.400384,Steady State : 73
+a=0.045787,b=0.400384,Steady State : 33
+a=0.048129,b=0.400384,Steady State : 33
+a=0.048793,b=0.400384,Steady State : 13
+a=1.500000,b=0.400384,Steady State : 3
+a=0.005133,b=0.401711,Steady State : 243
+a=0.012121,b=0.401711,Steady State : 233
+a=0.014098,b=0.401711,Steady State : 213
+a=0.017967,b=0.401711,Steady State : 193
+a=0.021869,b=0.401711,Steady State : 193
+a=0.022703,b=0.401711,Steady State : 133
+a=0.023707,b=0.401711,Steady State : 113
+a=0.031451,b=0.401711,Steady State : 103
+a=0.041323,b=0.401711,Steady State : 53
+a=0.043811,b=0.401711,Steady State : 73
+a=0.045979,b=0.401711,Steady State : 33
+a=0.048179,b=0.401711,Steady State : 33
+a=0.048826,b=0.401711,Steady State : 13
+a=1.500000,b=0.401711,Steady State : 3
+a=0.005158,b=0.402690,Steady State : 243
+a=0.012203,b=0.402690,Steady State : 233
+a=0.014162,b=0.402690,Steady State : 213
+a=0.018073,b=0.402690,Steady State : 193
+a=0.021990,b=0.402690,Steady State : 193
+a=0.022842,b=0.402690,Steady State : 133
+a=0.023739,b=0.402690,Steady State : 113
+a=0.031184,b=0.402690,Steady State : 103
+a=0.038814,b=0.402690,Steady State : 83
+a=0.041593,b=0.402690,Steady State : 53
+a=0.044099,b=0.402690,Steady State : 73
+a=0.046121,b=0.402690,Steady State : 33
+a=0.048215,b=0.402690,Steady State : 33
+a=0.048851,b=0.402690,Steady State : 13
+a=1.500000,b=0.402690,Steady State : 3
+a=0.005184,b=0.403668,Steady State : 243
+a=0.012265,b=0.403668,Steady State : 233
+a=0.014236,b=0.403668,Steady State : 213
+a=0.018162,b=0.403668,Steady State : 193
+a=0.022112,b=0.403668,Steady State : 193
+a=0.022900,b=0.403668,Steady State : 133
+a=0.031023,b=0.403668,Steady State : 103
+a=0.038675,b=0.403668,Steady State : 83
+a=0.041850,b=0.403668,Steady State : 53
+a=0.044374,b=0.403668,Steady State : 73
+a=0.046268,b=0.403668,Steady State : 33
+a=0.048252,b=0.403668,Steady State : 33
+a=0.048874,b=0.403668,Steady State : 13
+a=1.500000,b=0.403668,Steady State : 3
+a=0.005198,b=0.404199,Steady State : 243
+a=0.012300,b=0.404199,Steady State : 233
+a=0.014276,b=0.404199,Steady State : 213
+a=0.018224,b=0.404199,Steady State : 193
+a=0.022179,b=0.404199,Steady State : 193
+a=0.022991,b=0.404199,Steady State : 133
+a=0.023791,b=0.404199,Steady State : 123
+a=0.030882,b=0.404199,Steady State : 103
+a=0.038642,b=0.404199,Steady State : 83
+a=0.041945,b=0.404199,Steady State : 53
+a=0.044515,b=0.404199,Steady State : 73
+a=0.046341,b=0.404199,Steady State : 33
+a=0.048272,b=0.404199,Steady State : 33
+a=0.048887,b=0.404199,Steady State : 13
+a=1.500000,b=0.404199,Steady State : 3
+a=0.005212,b=0.404728,Steady State : 243
+a=0.012309,b=0.404728,Steady State : 233
+a=0.014340,b=0.404728,Steady State : 213
+a=0.018268,b=0.404728,Steady State : 193
+a=0.022237,b=0.404728,Steady State : 193
+a=0.023001,b=0.404728,Steady State : 133
+a=0.023809,b=0.404728,Steady State : 123
+a=0.030805,b=0.404728,Steady State : 103
+a=0.038591,b=0.404728,Steady State : 83
+a=0.042078,b=0.404728,Steady State : 53
+a=0.046423,b=0.404728,Steady State : 33
+a=0.048291,b=0.404728,Steady State : 33
+a=0.048900,b=0.404728,Steady State : 13
+a=1.500000,b=0.404728,Steady State : 3
+a=0.005293,b=0.407802,Steady State : 243
+a=0.012530,b=0.407802,Steady State : 233
+a=0.014550,b=0.407802,Steady State : 213
+a=0.018588,b=0.407802,Steady State : 193
+a=0.022635,b=0.407802,Steady State : 193
+a=0.023058,b=0.407802,Steady State : 133
+a=0.023923,b=0.407802,Steady State : 123
+a=0.030591,b=0.407802,Steady State : 103
+a=0.038356,b=0.407802,Steady State : 83
+a=0.042655,b=0.407802,Steady State : 53
+a=0.045385,b=0.407802,Steady State : 33
+a=0.046870,b=0.407802,Steady State : 33
+a=0.048400,b=0.407802,Steady State : 33
+a=0.048972,b=0.407802,Steady State : 13
+a=1.500000,b=0.407802,Steady State : 3
+a=0.005376,b=0.410875,Steady State : 243
+a=0.012730,b=0.410875,Steady State : 233
+a=0.014788,b=0.410875,Steady State : 213
+a=0.018904,b=0.410875,Steady State : 193
+a=0.023022,b=0.410875,Steady State : 193
+a=0.024049,b=0.410875,Steady State : 123
+a=0.030432,b=0.410875,Steady State : 103
+a=0.038166,b=0.410875,Steady State : 83
+a=0.043206,b=0.410875,Steady State : 53
+a=0.046010,b=0.410875,Steady State : 33
+a=0.047369,b=0.410875,Steady State : 33
+a=0.048506,b=0.410875,Steady State : 33
+a=0.049042,b=0.410875,Steady State : 13
+a=1.500000,b=0.410875,Steady State : 3
+a=0.005387,b=0.411288,Steady State : 243
+a=0.012756,b=0.411288,Steady State : 233
+a=0.014820,b=0.411288,Steady State : 213
+a=0.018947,b=0.411288,Steady State : 193
+a=0.023037,b=0.411288,Steady State : 193
+a=0.023128,b=0.411288,Steady State : 183
+a=0.024111,b=0.411288,Steady State : 123
+a=0.030416,b=0.411288,Steady State : 103
+a=0.038173,b=0.411288,Steady State : 83
+a=0.043247,b=0.411288,Steady State : 53
+a=0.046140,b=0.411288,Steady State : 33
+a=0.047387,b=0.411288,Steady State : 33
+a=0.048520,b=0.411288,Steady State : 33
+a=0.049051,b=0.411288,Steady State : 13
+a=1.500000,b=0.411288,Steady State : 3
+a=0.005398,b=0.411701,Steady State : 243
+a=0.012783,b=0.411701,Steady State : 233
+a=0.014852,b=0.411701,Steady State : 213
+a=0.018929,b=0.411701,Steady State : 193
+a=0.023189,b=0.411701,Steady State : 183
+a=0.024174,b=0.411701,Steady State : 123
+a=0.030400,b=0.411701,Steady State : 103
+a=0.038129,b=0.411701,Steady State : 83
+a=0.043338,b=0.411701,Steady State : 53
+a=0.046182,b=0.411701,Steady State : 33
+a=0.047492,b=0.411701,Steady State : 33
+a=0.048534,b=0.411701,Steady State : 33
+a=0.049060,b=0.411701,Steady State : 13
+a=1.500000,b=0.411701,Steady State : 3
+a=0.005512,b=0.415913,Steady State : 243
+a=0.013060,b=0.415913,Steady State : 233
+a=0.015182,b=0.415913,Steady State : 213
+a=0.018971,b=0.415913,Steady State : 193
+a=0.023133,b=0.415913,Steady State : 183
+a=0.023691,b=0.415913,Steady State : 183
+a=0.024835,b=0.415913,Steady State : 123
+a=0.030284,b=0.415913,Steady State : 103
+a=0.038005,b=0.415913,Steady State : 83
+a=0.043947,b=0.415913,Steady State : 53
+a=0.047074,b=0.415913,Steady State : 33
+a=0.048081,b=0.415913,Steady State : 33
+a=0.048672,b=0.415913,Steady State : 33
+a=0.049150,b=0.415913,Steady State : 13
+a=1.500000,b=0.415913,Steady State : 3
+a=0.005628,b=0.420125,Steady State : 243
+a=0.013340,b=0.420125,Steady State : 233
+a=0.015518,b=0.420125,Steady State : 213
+a=0.018957,b=0.420125,Steady State : 193
+a=0.023227,b=0.420125,Steady State : 183
+a=0.024256,b=0.420125,Steady State : 183
+a=0.025526,b=0.420125,Steady State : 123
+a=0.030240,b=0.420125,Steady State : 103
+a=0.037874,b=0.420125,Steady State : 83
+a=0.044554,b=0.420125,Steady State : 53
+a=0.047887,b=0.420125,Steady State : 33
+a=0.048803,b=0.420125,Steady State : 33
+a=0.049235,b=0.420125,Steady State : 13
+a=1.500000,b=0.420125,Steady State : 3
+a=0.005636,b=0.420444,Steady State : 243
+a=0.013362,b=0.420444,Steady State : 233
+a=0.015543,b=0.420444,Steady State : 213
+a=0.018957,b=0.420444,Steady State : 193
+a=0.023235,b=0.420444,Steady State : 183
+a=0.024299,b=0.420444,Steady State : 183
+a=0.025579,b=0.420444,Steady State : 123
+a=0.030240,b=0.420444,Steady State : 103
+a=0.037894,b=0.420444,Steady State : 83
+a=0.044570,b=0.420444,Steady State : 53
+a=0.047907,b=0.420444,Steady State : 33
+a=0.048773,b=0.420444,Steady State : 33
+a=0.048851,b=0.420444,Steady State : 33
+a=0.049242,b=0.420444,Steady State : 13
+a=1.500000,b=0.420444,Steady State : 3
+a=0.005645,b=0.420763,Steady State : 243
+a=0.013383,b=0.420763,Steady State : 233
+a=0.015569,b=0.420763,Steady State : 213
+a=0.018956,b=0.420763,Steady State : 193
+a=0.023243,b=0.420763,Steady State : 183
+a=0.024343,b=0.420763,Steady State : 183
+a=0.025633,b=0.420763,Steady State : 123
+a=0.030240,b=0.420763,Steady State : 103
+a=0.037887,b=0.420763,Steady State : 83
+a=0.044612,b=0.420763,Steady State : 53
+a=0.047929,b=0.420763,Steady State : 33
+a=0.048810,b=0.420763,Steady State : 33
+a=0.049253,b=0.420763,Steady State : 13
+a=1.500000,b=0.420763,Steady State : 3
+a=0.005681,b=0.422062,Steady State : 243
+a=0.013471,b=0.422062,Steady State : 233
+a=0.015673,b=0.422062,Steady State : 213
+a=0.018953,b=0.422062,Steady State : 193
+a=0.023274,b=0.422062,Steady State : 183
+a=0.024520,b=0.422062,Steady State : 183
+a=0.025855,b=0.422062,Steady State : 123
+a=0.030243,b=0.422062,Steady State : 103
+a=0.037863,b=0.422062,Steady State : 83
+a=0.044780,b=0.422062,Steady State : 53
+a=0.048013,b=0.422062,Steady State : 33
+a=0.048861,b=0.422062,Steady State : 33
+a=0.049098,b=0.422062,Steady State : 13
+a=0.049435,b=0.422062,Steady State : 13
+a=1.500000,b=0.422062,Steady State : 3
+a=0.005717,b=0.423361,Steady State : 243
+a=0.013558,b=0.423361,Steady State : 233
+a=0.015778,b=0.423361,Steady State : 213
+a=0.018951,b=0.423361,Steady State : 193
+a=0.023307,b=0.423361,Steady State : 183
+a=0.024699,b=0.423361,Steady State : 183
+a=0.026081,b=0.423361,Steady State : 123
+a=0.030252,b=0.423361,Steady State : 103
+a=0.037841,b=0.423361,Steady State : 83
+a=0.044945,b=0.423361,Steady State : 53
+a=0.048095,b=0.423361,Steady State : 33
+a=0.048899,b=0.423361,Steady State : 33
+a=0.049166,b=0.423361,Steady State : 13
+a=1.500000,b=0.423361,Steady State : 3
+a=0.005907,b=0.430109,Steady State : 243
+a=0.014020,b=0.430109,Steady State : 233
+a=0.016333,b=0.430109,Steady State : 213
+a=0.018947,b=0.430109,Steady State : 193
+a=0.023488,b=0.430109,Steady State : 183
+a=0.025648,b=0.430109,Steady State : 183
+a=0.027329,b=0.430109,Steady State : 123
+a=0.030405,b=0.430109,Steady State : 103
+a=0.037755,b=0.430109,Steady State : 83
+a=0.045753,b=0.430109,Steady State : 53
+a=0.048473,b=0.430109,Steady State : 33
+a=0.049086,b=0.430109,Steady State : 33
+a=0.049418,b=0.430109,Steady State : 13
+a=0.050620,b=0.430109,Steady State : 3
+a=1.500000,b=0.430109,Steady State : 3
+a=0.006100,b=0.436857,Steady State : 243
+a=0.014442,b=0.436857,Steady State : 233
+a=0.016920,b=0.436857,Steady State : 213
+a=0.018957,b=0.436857,Steady State : 193
+a=0.023691,b=0.436857,Steady State : 183
+a=0.026634,b=0.436857,Steady State : 183
+a=0.028746,b=0.436857,Steady State : 123
+a=0.037860,b=0.436857,Steady State : 83
+a=0.046499,b=0.436857,Steady State : 53
+a=0.048841,b=0.436857,Steady State : 33
+a=0.049255,b=0.436857,Steady State : 33
+a=0.049527,b=0.436857,Steady State : 13
+a=0.051584,b=0.436857,Steady State : 3
+a=1.500000,b=0.436857,Steady State : 3
+a=0.006170,b=0.439312,Steady State : 243
+a=0.014666,b=0.439312,Steady State : 233
+a=0.017111,b=0.439312,Steady State : 213
+a=0.018964,b=0.439312,Steady State : 193
+a=0.023772,b=0.439312,Steady State : 183
+a=0.027002,b=0.439312,Steady State : 183
+a=0.028784,b=0.439312,Steady State : 123
+a=0.031071,b=0.439312,Steady State : 103
+a=0.038342,b=0.439312,Steady State : 83
+a=0.046738,b=0.439312,Steady State : 53
+a=0.048892,b=0.439312,Steady State : 33
+a=0.049312,b=0.439312,Steady State : 33
+a=0.049563,b=0.439312,Steady State : 13
+a=0.052039,b=0.439312,Steady State : 3
+a=1.500000,b=0.439312,Steady State : 3
+a=0.006242,b=0.441767,Steady State : 243
+a=0.014840,b=0.441767,Steady State : 233
+a=0.017324,b=0.441767,Steady State : 213
+a=0.018973,b=0.441767,Steady State : 193
+a=0.023855,b=0.441767,Steady State : 183
+a=0.027377,b=0.441767,Steady State : 183
+a=0.028785,b=0.441767,Steady State : 123
+a=0.031707,b=0.441767,Steady State : 103
+a=0.033473,b=0.441767,Steady State : 83
+a=0.039406,b=0.441767,Steady State : 83
+a=0.047012,b=0.441767,Steady State : 53
+a=0.048989,b=0.441767,Steady State : 33
+a=0.049367,b=0.441767,Steady State : 33
+a=0.049599,b=0.441767,Steady State : 13
+a=0.052354,b=0.441767,Steady State : 3
+a=1.500000,b=0.441767,Steady State : 3
+a=0.006242,b=0.441777,Steady State : 243
+a=0.014842,b=0.441777,Steady State : 233
+a=0.017324,b=0.441777,Steady State : 213
+a=0.018973,b=0.441777,Steady State : 193
+a=0.023857,b=0.441777,Steady State : 183
+a=0.027379,b=0.441777,Steady State : 183
+a=0.028786,b=0.441777,Steady State : 123
+a=0.031721,b=0.441777,Steady State : 103
+a=0.033479,b=0.441777,Steady State : 83
+a=0.033552,b=0.441777,Steady State : 103
+a=0.039432,b=0.441777,Steady State : 83
+a=0.046981,b=0.441777,Steady State : 53
+a=0.048988,b=0.441777,Steady State : 33
+a=0.049366,b=0.441777,Steady State : 33
+a=0.049599,b=0.441777,Steady State : 13
+a=0.052433,b=0.441777,Steady State : 3
+a=1.500000,b=0.441777,Steady State : 3
+a=0.006243,b=0.441786,Steady State : 243
+a=0.014842,b=0.441786,Steady State : 233
+a=0.017326,b=0.441786,Steady State : 213
+a=0.018973,b=0.441786,Steady State : 193
+a=0.023856,b=0.441786,Steady State : 183
+a=0.027380,b=0.441786,Steady State : 183
+a=0.028785,b=0.441786,Steady State : 123
+a=0.031759,b=0.441786,Steady State : 103
+a=0.033516,b=0.441786,Steady State : 103
+a=0.039396,b=0.441786,Steady State : 83
+a=0.047013,b=0.441786,Steady State : 53
+a=0.048990,b=0.441786,Steady State : 33
+a=0.049367,b=0.441786,Steady State : 33
+a=0.049599,b=0.441786,Steady State : 13
+a=0.052357,b=0.441786,Steady State : 3
+a=1.500000,b=0.441786,Steady State : 3
+a=0.006262,b=0.442469,Steady State : 243
+a=0.014891,b=0.442469,Steady State : 233
+a=0.017385,b=0.442469,Steady State : 213
+a=0.018976,b=0.442469,Steady State : 193
+a=0.023880,b=0.442469,Steady State : 183
+a=0.027485,b=0.442469,Steady State : 183
+a=0.028788,b=0.442469,Steady State : 123
+a=0.031534,b=0.442469,Steady State : 103
+a=0.039272,b=0.442469,Steady State : 83
+a=0.047048,b=0.442469,Steady State : 53
+a=0.049015,b=0.442469,Steady State : 33
+a=0.049382,b=0.442469,Steady State : 33
+a=0.049609,b=0.442469,Steady State : 13
+a=0.052544,b=0.442469,Steady State : 3
+a=1.500000,b=0.442469,Steady State : 3
+a=0.006283,b=0.443153,Steady State : 243
+a=0.014940,b=0.443153,Steady State : 233
+a=0.017445,b=0.443153,Steady State : 213
+a=0.018979,b=0.443153,Steady State : 193
+a=0.023904,b=0.443153,Steady State : 183
+a=0.027591,b=0.443153,Steady State : 183
+a=0.028789,b=0.443153,Steady State : 123
+a=0.031339,b=0.443153,Steady State : 103
+a=0.039144,b=0.443153,Steady State : 83
+a=0.047145,b=0.443153,Steady State : 53
+a=0.049041,b=0.443153,Steady State : 33
+a=0.049397,b=0.443153,Steady State : 33
+a=0.049618,b=0.443153,Steady State : 13
+a=0.052575,b=0.443153,Steady State : 3
+a=1.500000,b=0.443153,Steady State : 3
+a=0.006381,b=0.446500,Steady State : 243
+a=0.015183,b=0.446500,Steady State : 233
+a=0.017738,b=0.446500,Steady State : 213
+a=0.018995,b=0.446500,Steady State : 193
+a=0.024027,b=0.446500,Steady State : 183
+a=0.028115,b=0.446500,Steady State : 183
+a=0.028810,b=0.446500,Steady State : 123
+a=0.030564,b=0.446500,Steady State : 103
+a=0.038880,b=0.446500,Steady State : 83
+a=0.047424,b=0.446500,Steady State : 53
+a=0.049159,b=0.446500,Steady State : 33
+a=0.049466,b=0.446500,Steady State : 33
+a=0.049662,b=0.446500,Steady State : 13
+a=0.053203,b=0.446500,Steady State : 3
+a=1.500000,b=0.446500,Steady State : 3
+a=0.006481,b=0.449847,Steady State : 243
+a=0.015384,b=0.449847,Steady State : 233
+a=0.018050,b=0.449847,Steady State : 213
+a=0.019015,b=0.449847,Steady State : 193
+a=0.024155,b=0.449847,Steady State : 183
+a=0.028625,b=0.449847,Steady State : 183
+a=0.029938,b=0.449847,Steady State : 103
+a=0.038655,b=0.449847,Steady State : 83
+a=0.047739,b=0.449847,Steady State : 53
+a=0.049313,b=0.449847,Steady State : 33
+a=0.049531,b=0.449847,Steady State : 33
+a=0.049704,b=0.449847,Steady State : 13
+a=0.053670,b=0.449847,Steady State : 3
+a=1.500000,b=0.449847,Steady State : 3
+a=0.006500,b=0.450484,Steady State : 243
+a=0.015475,b=0.450484,Steady State : 233
+a=0.018093,b=0.450484,Steady State : 213
+a=0.019019,b=0.450484,Steady State : 193
+a=0.024181,b=0.450484,Steady State : 183
+a=0.028657,b=0.450484,Steady State : 183
+a=0.028851,b=0.450484,Steady State : 163
+a=0.029892,b=0.450484,Steady State : 103
+a=0.038659,b=0.450484,Steady State : 83
+a=0.047773,b=0.450484,Steady State : 53
+a=0.049287,b=0.450484,Steady State : 33
+a=0.049543,b=0.450484,Steady State : 33
+a=0.049711,b=0.450484,Steady State : 13
+a=0.053872,b=0.450484,Steady State : 3
+a=1.500000,b=0.450484,Steady State : 3
+a=0.006519,b=0.451120,Steady State : 243
+a=0.015464,b=0.451120,Steady State : 233
+a=0.018202,b=0.451120,Steady State : 213
+a=0.019024,b=0.451120,Steady State : 193
+a=0.024207,b=0.451120,Steady State : 183
+a=0.028858,b=0.451120,Steady State : 163
+a=0.029876,b=0.451120,Steady State : 103
+a=0.038595,b=0.451120,Steady State : 83
+a=0.047809,b=0.451120,Steady State : 53
+a=0.049368,b=0.451120,Steady State : 33
+a=0.049554,b=0.451120,Steady State : 33
+a=0.049719,b=0.451120,Steady State : 13
+a=0.053884,b=0.451120,Steady State : 3
+a=1.500000,b=0.451120,Steady State : 3
+a=0.006585,b=0.453304,Steady State : 243
+a=0.015684,b=0.453304,Steady State : 233
+a=0.018348,b=0.453304,Steady State : 213
+a=0.019040,b=0.453304,Steady State : 193
+a=0.023969,b=0.453304,Steady State : 183
+a=0.028685,b=0.453304,Steady State : 163
+a=0.029220,b=0.453304,Steady State : 163
+a=0.029830,b=0.453304,Steady State : 103
+a=0.038536,b=0.453304,Steady State : 83
+a=0.048007,b=0.453304,Steady State : 53
+a=0.049370,b=0.453304,Steady State : 33
+a=0.049593,b=0.453304,Steady State : 33
+a=0.049743,b=0.453304,Steady State : 13
+a=0.054358,b=0.453304,Steady State : 3
+a=1.500000,b=0.453304,Steady State : 3
+a=0.006651,b=0.455488,Steady State : 243
+a=0.015847,b=0.455488,Steady State : 233
+a=0.018547,b=0.455488,Steady State : 213
+a=0.019057,b=0.455488,Steady State : 193
+a=0.023734,b=0.455488,Steady State : 183
+a=0.028713,b=0.455488,Steady State : 163
+a=0.029563,b=0.455488,Steady State : 163
+a=0.038487,b=0.455488,Steady State : 83
+a=0.048215,b=0.455488,Steady State : 53
+a=0.049430,b=0.455488,Steady State : 33
+a=0.049631,b=0.455488,Steady State : 33
+a=0.049767,b=0.455488,Steady State : 13
+a=0.054630,b=0.455488,Steady State : 3
+a=1.500000,b=0.455488,Steady State : 3
+a=0.006669,b=0.456100,Steady State : 243
+a=0.015893,b=0.456100,Steady State : 233
+a=0.018603,b=0.456100,Steady State : 213
+a=0.019062,b=0.456100,Steady State : 193
+a=0.023669,b=0.456100,Steady State : 183
+a=0.028721,b=0.456100,Steady State : 163
+a=0.029577,b=0.456100,Steady State : 163
+a=0.029798,b=0.456100,Steady State : 143
+a=0.038542,b=0.456100,Steady State : 83
+a=0.048227,b=0.456100,Steady State : 53
+a=0.049447,b=0.456100,Steady State : 33
+a=0.049641,b=0.456100,Steady State : 33
+a=0.049773,b=0.456100,Steady State : 13
+a=0.054849,b=0.456100,Steady State : 3
+a=1.500000,b=0.456100,Steady State : 3
+a=0.006688,b=0.456712,Steady State : 243
+a=0.015939,b=0.456712,Steady State : 233
+a=0.018660,b=0.456712,Steady State : 213
+a=0.019067,b=0.456712,Steady State : 193
+a=0.023604,b=0.456712,Steady State : 183
+a=0.028665,b=0.456712,Steady State : 163
+a=0.029861,b=0.456712,Steady State : 143
+a=0.038597,b=0.456712,Steady State : 83
+a=0.048309,b=0.456712,Steady State : 53
+a=0.049463,b=0.456712,Steady State : 33
+a=0.049651,b=0.456712,Steady State : 33
+a=0.049780,b=0.456712,Steady State : 13
+a=0.054844,b=0.456712,Steady State : 3
+a=1.500000,b=0.456712,Steady State : 3
+a=0.006732,b=0.458165,Steady State : 243
+a=0.016048,b=0.458165,Steady State : 233
+a=0.018794,b=0.458165,Steady State : 213
+a=0.019080,b=0.458165,Steady State : 193
+a=0.023450,b=0.458165,Steady State : 183
+a=0.028498,b=0.458165,Steady State : 163
+a=0.029556,b=0.458165,Steady State : 143
+a=0.030043,b=0.458165,Steady State : 143
+a=0.038845,b=0.458165,Steady State : 83
+a=0.048382,b=0.458165,Steady State : 53
+a=0.049500,b=0.458165,Steady State : 33
+a=0.049674,b=0.458165,Steady State : 33
+a=0.049795,b=0.458165,Steady State : 13
+a=0.055220,b=0.458165,Steady State : 3
+a=1.500000,b=0.458165,Steady State : 3
+a=0.006777,b=0.459618,Steady State : 243
+a=0.016159,b=0.459618,Steady State : 233
+a=0.018857,b=0.459618,Steady State : 213
+a=0.023370,b=0.459618,Steady State : 183
+a=0.028273,b=0.459618,Steady State : 163
+a=0.029547,b=0.459618,Steady State : 143
+a=0.030295,b=0.459618,Steady State : 143
+a=0.039058,b=0.459618,Steady State : 83
+a=0.048488,b=0.459618,Steady State : 53
+a=0.049536,b=0.459618,Steady State : 33
+a=0.049696,b=0.459618,Steady State : 33
+a=0.049809,b=0.459618,Steady State : 13
+a=0.055483,b=0.459618,Steady State : 3
+a=1.500000,b=0.459618,Steady State : 3
+a=0.006807,b=0.460602,Steady State : 243
+a=0.016234,b=0.460602,Steady State : 233
+a=0.018936,b=0.460602,Steady State : 213
+a=0.019103,b=0.460602,Steady State : 203
+a=0.023279,b=0.460602,Steady State : 183
+a=0.028120,b=0.460602,Steady State : 163
+a=0.029545,b=0.460602,Steady State : 143
+a=0.030468,b=0.460602,Steady State : 143
+a=0.039200,b=0.460602,Steady State : 83
+a=0.048558,b=0.460602,Steady State : 53
+a=0.049559,b=0.460602,Steady State : 33
+a=0.049711,b=0.460602,Steady State : 33
+a=0.049818,b=0.460602,Steady State : 13
+a=0.055665,b=0.460602,Steady State : 3
+a=1.500000,b=0.460602,Steady State : 3
+a=0.006837,b=0.461585,Steady State : 243
+a=0.016248,b=0.461585,Steady State : 233
+a=0.019119,b=0.461585,Steady State : 203
+a=0.023233,b=0.461585,Steady State : 183
+a=0.028071,b=0.461585,Steady State : 163
+a=0.029543,b=0.461585,Steady State : 143
+a=0.030643,b=0.461585,Steady State : 143
+a=0.039344,b=0.461585,Steady State : 83
+a=0.048526,b=0.461585,Steady State : 53
+a=0.049613,b=0.461585,Steady State : 33
+a=0.049725,b=0.461585,Steady State : 33
+a=0.049827,b=0.461585,Steady State : 13
+a=0.055846,b=0.461585,Steady State : 3
+a=1.500000,b=0.461585,Steady State : 3
+a=0.007188,b=0.472781,Steady State : 243
+a=0.016240,b=0.472781,Steady State : 233
+a=0.019045,b=0.472781,Steady State : 223
+a=0.020189,b=0.472781,Steady State : 203
+a=0.023109,b=0.472781,Steady State : 183
+a=0.026378,b=0.472781,Steady State : 163
+a=0.029663,b=0.472781,Steady State : 143
+a=0.032738,b=0.472781,Steady State : 143
+a=0.040967,b=0.472781,Steady State : 83
+a=0.049295,b=0.472781,Steady State : 53
+a=0.049793,b=0.472781,Steady State : 33
+a=0.049862,b=0.472781,Steady State : 33
+a=0.049913,b=0.472781,Steady State : 13
+a=0.058055,b=0.472781,Steady State : 3
+a=1.500000,b=0.472781,Steady State : 3
+a=0.007549,b=0.483977,Steady State : 243
+a=0.016195,b=0.483977,Steady State : 233
+a=0.019181,b=0.483977,Steady State : 223
+a=0.021322,b=0.483977,Steady State : 203
+a=0.023028,b=0.483977,Steady State : 183
+a=0.024936,b=0.483977,Steady State : 163
+a=0.029976,b=0.483977,Steady State : 143
+a=0.035140,b=0.483977,Steady State : 143
+a=0.040877,b=0.483977,Steady State : 83
+a=0.047902,b=0.483977,Steady State : 83
+a=0.049752,b=0.483977,Steady State : 53
+a=0.049929,b=0.483977,Steady State : 33
+a=0.049952,b=0.483977,Steady State : 33
+a=0.049970,b=0.483977,Steady State : 13
+a=0.060608,b=0.483977,Steady State : 3
+a=1.500000,b=0.483977,Steady State : 3
+a=0.007756,b=0.490246,Steady State : 243
+a=0.016180,b=0.490246,Steady State : 233
+a=0.019278,b=0.490246,Steady State : 223
+a=0.021978,b=0.490246,Steady State : 203
+a=0.023019,b=0.490246,Steady State : 183
+a=0.024173,b=0.490246,Steady State : 163
+a=0.030282,b=0.490246,Steady State : 143
+a=0.036664,b=0.490246,Steady State : 143
+a=0.039481,b=0.490246,Steady State : 83
+a=0.045465,b=0.490246,Steady State : 83
+a=0.049566,b=0.490246,Steady State : 83
+a=0.049907,b=0.490246,Steady State : 53
+a=0.049973,b=0.490246,Steady State : 33
+a=0.049982,b=0.490246,Steady State : 33
+a=0.049989,b=0.490246,Steady State : 13
+a=0.062314,b=0.490246,Steady State : 3
+a=1.500000,b=0.490246,Steady State : 3
+a=0.007967,b=0.496514,Steady State : 243
+a=0.016172,b=0.496514,Steady State : 233
+a=0.019385,b=0.496514,Steady State : 223
+a=0.022658,b=0.496514,Steady State : 203
+a=0.023030,b=0.496514,Steady State : 183
+a=0.023441,b=0.496514,Steady State : 163
+a=0.030656,b=0.496514,Steady State : 143
+a=0.038504,b=0.496514,Steady State : 143
+a=0.044696,b=0.496514,Steady State : 83
+a=0.049950,b=0.496514,Steady State : 83
+a=0.049988,b=0.496514,Steady State : 53
+a=0.049997,b=0.496514,Steady State : 33
+a=0.049998,b=0.496514,Steady State : 33
+a=0.049999,b=0.496514,Steady State : 13
+a=0.064474,b=0.496514,Steady State : 3
+a=1.500000,b=0.496514,Steady State : 3
+a=0.007977,b=0.496836,Steady State : 243
+a=0.016172,b=0.496836,Steady State : 233
+a=0.019391,b=0.496836,Steady State : 223
+a=0.022694,b=0.496836,Steady State : 203
+a=0.023031,b=0.496836,Steady State : 183
+a=0.023405,b=0.496836,Steady State : 163
+a=0.030679,b=0.496836,Steady State : 143
+a=0.038496,b=0.496836,Steady State : 143
+a=0.039494,b=0.496836,Steady State : 143
+a=0.044772,b=0.496836,Steady State : 83
+a=0.049959,b=0.496836,Steady State : 83
+a=0.049991,b=0.496836,Steady State : 53
+a=0.049997,b=0.496836,Steady State : 33
+a=0.049998,b=0.496836,Steady State : 33
+a=0.049999,b=0.496836,Steady State : 13
+a=0.064611,b=0.496836,Steady State : 3
+a=1.500000,b=0.496836,Steady State : 3
+a=0.007989,b=0.497158,Steady State : 243
+a=0.016172,b=0.497158,Steady State : 233
+a=0.019395,b=0.497158,Steady State : 223
+a=0.022717,b=0.497158,Steady State : 203
+a=0.023386,b=0.497158,Steady State : 163
+a=0.030701,b=0.497158,Steady State : 143
+a=0.038489,b=0.497158,Steady State : 143
+a=0.039516,b=0.497158,Steady State : 143
+a=0.044850,b=0.497158,Steady State : 83
+a=0.049967,b=0.497158,Steady State : 83
+a=0.049991,b=0.497158,Steady State : 53
+a=0.049998,b=0.497158,Steady State : 33
+a=0.049999,b=0.497158,Steady State : 33
+a=0.049999,b=0.497158,Steady State : 13
+a=0.064753,b=0.497158,Steady State : 3
+a=1.500000,b=0.497158,Steady State : 3
+a=0.008037,b=0.498579,Steady State : 243
+a=0.016171,b=0.498579,Steady State : 233
+a=0.019422,b=0.498579,Steady State : 223
+a=0.022727,b=0.498579,Steady State : 203
+a=0.023038,b=0.498579,Steady State : 183
+a=0.023365,b=0.498579,Steady State : 163
+a=0.030804,b=0.498579,Steady State : 143
+a=0.038468,b=0.498579,Steady State : 143
+a=0.039662,b=0.498579,Steady State : 143
+a=0.045224,b=0.498579,Steady State : 83
+a=0.049992,b=0.498579,Steady State : 83
+a=0.049998,b=0.498579,Steady State : 53
+a=0.049999,b=0.498579,Steady State : 33
+a=0.050000,b=0.498579,Steady State : 33
+a=0.050000,b=0.498579,Steady State : 13
+a=0.065461,b=0.498579,Steady State : 3
+a=1.500000,b=0.498579,Steady State : 3
